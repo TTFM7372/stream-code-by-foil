@@ -11,7 +11,7 @@ const prefix = '!';
 client.on('ready', () => {
 
   
-    console.log(`Logged in as [ FOIL]`);
+    console.log(`Logged in as [578290290755108867]`);
 
 });
 
@@ -113,4 +113,4 @@ if (message.content.startsWith(adminprefix + 'avatar')) {
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.cLP9b1zg51-2P4G47NKFqZ9iwZLvG-em);
